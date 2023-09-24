@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+
+	<!-- ========== STD. HEAD ITEMS -->
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="http://mollybolten.com">
+	<meta name="twitter:creator" content="@MollyBolten">
+	<meta name="twitter:title" content="Molly Bolten's Portfolio">
+	<meta name="twitter:description" content="Molly Bolten's Portfolio">
+	<meta name="twitter:image" content="images/test.jpg">
+
+	<!-- OpenGraph TK -->
+
+	<!-- What does LinkedIn use? TK -->
+
+	<!-- ========== STD. HEAD ITEMS -->
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" href="style.css">
+
+    <!-- Portfolio.js -->
+	<script type="text/javascript" src="portfolio.js"></script> 
+
+</head>
+
+
+
+<body>
+
+	<div id=randomize-div onclick="randomize_colors()">
+
+		<div id=dice>
+			☏
+		</div>
+
+		<svg
+		  viewBox="0 0 100 100"
+		  xmlns="http://www.w3.org/2000/svg"
+		>
+		  <path
+		    id="circlePath"
+		    fill="var(--bg-color)"
+		    stroke="var(--layout-color)"
+		    stroke-width="4"
+		    d="
+		      M 10, 50
+		      a 40,40 0 1,1 80,0
+		      40,40 0 1,1 -80,0
+		    "
+		  />
+		  <text>
+		    <textPath href="#circlePath" fill="var(--text-color)">
+		      randomize &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; colors
+		    </textPath>
+		  </text>
+		</svg>
+	</div>
+
+	<!-- ============================ -->
+	<!-- Top div with header and contact -->
+	<div id=top-outer>
+		<h1>Portfolio</h1>
+
+		<p id=contact>
+			<a href="mailto:example@test.com">mollybolten@gmail.com</a>
+		</p>
+
+		<p id=bio>
+			<b>Hi! I’m Molly Bolten.</b> I’m a creative audio storyteller obsessed with sound. I specialize in audio post-production of narrative content: mixing, mastering, sound design, dialogue editing and music sourcing/placement/editing. Welcome to my website, which features my favorite things I’ve made to date. But I want to make more, better, wilder things, so please contact me if you’re looking for someone to make your thing sound amazing.
+		</p>
+	</div>
+
+
+		<div id="playerDiv">
+		<audio id="player" src="" oncanplay="canplayTriggered()"></audio>
+	</div>
+
+
+
+
+	<!-- ============================ -->
+	<!-- The rest of the page (menu, items, etc) -->
+	<div id=main>
+
+
+
+
+
+
+
+
+		<!-- **************************** -->
+		<details id=resume>
+			<summary>
+				<h2>Resumé</h2>
+			</summary>
+
+			<h3>Work</h3>
+
+			<h4>Spotify</h4>
+			<p>
+				Manager of Post-Production, Global Ad Production <span class=resume-date>// 2022-23</span>
+				<br>Audio Engineer, Global Ad Production <span class=resume-date>// 2020-22</span>
+			</p>
+
+			<h4>Gimlet Media</h4>
+			<p>
+				Podcast Audio Engineer (contract) <span class=resume-date>// 2019-20</span>
+			</p>
+
+			<h4>Audible</h4>
+			<p>
+				Associate Producer, Original Audio Programming (contract) <span class=resume-date>// 2018-19</span>
+			</p>
+
+			<h4>Smule</h4>
+			<p>
+				Music Producer & Artist Manager <span class=resume-date>// 2014-18</span>
+			</p>
+
+			<h4>Quantity Magazine</h4>
+			<p>
+				Founder, Editor <span class=resume-date>// Apr 2020-present</span>
+			</p>
+
+			<h4>The Noise Pop Podcast</h4>
+			<p>
+				Producer & Engineer <span class=resume-date>// 2019-20</span>
+			</p>
+
+			<h4>Rickshaw Stop - San Francisco, CA</h4>
+			<p>
+				Live Sound Engineer & Lighting Designer <span class=resume-date>// 2016-19</span>
+			</p>
+
+			<h4>The Battery - San Francisco, CA</h4>
+			<p>
+				Live Sound Engineer <span class=resume-date>// 2017-18</span>
+			</p>
+
+			<h4>Musician & Producer</h4>
+			<p>
+				2009-present
+			</p>
+
+
+
+
+		<h3>Education</h3>
+
+			<h4>Avid Certified Professional</h4>
+			<p>
+				Pro Tools Dolby ATMOS <span class=resume-date>// Oct 2022</span>
+			</p>
+
+			<h4>Princeton University - Princeton, NJ</h4>
+			<p>
+				Bachelor of Arts in Music
+				Certificate in Creative Writing
+				Cum Laude
+				Lewis Center for the Arts Ward Prize ’13
+				Lewis Center for the Arts Poetry Award ’12
+			</p>
+
+			<h4>Women’s Audio Mission - San Francisco, CA</h4>
+			<p class=no-bottom-padding>
+				Non-profit dedicated to teaching women and girls audio engineering skills. Completed courses:
+			</p>
+
+			<ul>
+				<li>Introduction to Audio Production</li>
+				<li>Professional Studio Recording</li>
+				<li>Live Sound</li>
+				<li>Podcasting</li>
+			</ul>
+
+
+
+
+		</details>
+
+
+
+
+		<div id=test>
+
+		</div>
+
+
+
+
+
+
+		<!-- **************************** -->
+		<details>
+			<summary>
+				<h2>Other links</h2>	
+			</summary>
+			
+
+			<ul id=other-links-list>
+				<li>
+					<a href="http://quantitymag.com">Quantity Mag</a>
+					<p>
+						<i>Quantity Mag</i> (née <i>Quaranzine</i>) is the resurrection of a web zine I started in April 2020 with my friend and collaborator Devin Smith. It’s a monthly multimedia collection of art made in the spirit of practice—short-term projects, little creative exercises that actually turned out kind of cool, stuff that's too weird for the masses, art made for fun. It’s a chance to showcase the work that we do on the side while we’re crafting our magnum opus.
+					</p>
+				</li>
+
+				<li>
+					<a href="http://www.mollyboltengraphics.com/">Design porfolio</a>
+				</li>
+
+				<li>
+					<a href="http://www.linkedin.com/in/mollybolten">LinkedIn</a>
+				</li>
+
+				<li>
+					<a href="https://letterboxd.com/mbolt/">Letterboxd</a>
+				</li>
+
+				<li>
+					<a href="http://www.instagram.com/mollybolten">Instagram</a>
+				</li>
+
+				<li>
+					<a href="http://devinsmith.work">Devin</a> built this website!
+				</li>
+
+			</ul>
+		</details>
+
+	</div>
+
+
+
+</body>
+
+</html>

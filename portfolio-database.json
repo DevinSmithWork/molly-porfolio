@@ -1,0 +1,586 @@
+[
+	{
+		"name" : "ads",
+		"notes": "These spots were all produced during my tenure at Spotify (2020-23), as manager of post-production on their in-house ad production team. My colleagues handled concept, scripting and production, while I executed everything post-production (dialogue editing, music editing, sound design, mixing and mastering). I post-produced all of the following spots, and have noted where I also handled the recording.",
+		"mediaFolder": "ads/",
+		"items":  [
+
+
+
+			{
+				"title": "Troli Sour Gummi Worms",
+				"style": "multi",
+				"fileArray": [
+					{
+						"file": "Troli/20210623_LPOTL_Trolli_MidTKV_MB_v02.mp3",
+						"title": "Last Podcast on the Left (2021) - Ran on episodes from July 2021."
+					},
+					{
+						"file": "Troli/20220128_AE_Trolli_3D_MB_v01_2.mp3",
+						"title": "\"Not Worms\" campaign (2022) - Ran across podcasts and music from February 2022."
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Lego",
+				"style": "multi",
+				"notes": "A series of spots for Lego, partnering with Disney, Marvel and Star Wars. Ran across podcasts and music from December 2022.",
+				"fileArray": [
+					{
+						"file": "Lego/20221130_LEGO_Disney_MB_v02.mp3",
+						"title": "Disney"
+					},
+					{
+						"file": "Lego/20221130_LEGO_Marvel_MB_v02.mp3",
+						"title": "Marvel"
+					},
+					{
+						"file": "Lego/20221130_LEGO_StarWars_MB_v03.mp3",
+						"title": "Star Wars"
+					},
+					{
+						"file": "Lego/20221130_LEGO_AE_MB_v02.mp3",
+						"title": "Problem Solving"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Liquid IV",
+				"notes": "A series of three animated video ads, for which I engineered the voiceover and music and created an original music track. Ran on the music side from June 2023.",
+				"file":"Liquid/20230509_LiquidIV_Music_HipHop_v02.mp3"
+			},
+
+
+
+			{
+				"title": "Bud Light ft. Megan Moroney",
+				"style": "single",
+				"notes": "I recorded the interview with country artist Megan Moroney remotely over Squadcast, then post-produced. Ran on the music side from June 2023.",
+				"file": "20230608_BudLight_EasyListening_Spot2_v02.mp3"
+			},
+
+
+
+			{
+				"title": "Coca Cola",
+				"style": "multi",
+				"notes": "For all these Coca Cola spots, I recorded the drink foley at home. These ran on the music side between 2020 and 2021. I recorded the interview with artist Tai Verdes remotely over Riverside.",
+				"fileArray": [
+					{
+						"title": "Connected (2020)",
+						"file": "Coke/20200827_Coke_MB_v04.mp3"
+					},
+					{
+						"title": "Holiday (2020)",
+						"file": "Coke/20201201_Coke_Holiday_MB_v02.mp3"
+					},
+										{
+					"title": "Holiday (2021)",
+						"file": "Coke/20211022_Coke_Holiday_MB_v01c.mp3"
+					},
+					{
+						"title": "Fooding - Surprise Your Crew (2021)",
+						"file": "20210225_Coke_Fooding_SurpriseYourCrew_MB_v02.mp3"
+					},
+					{
+						"title": "Fooding - Home Game Advantage (2021)",
+						"file": "20210225_Coke_Fooding_HomeGameAdv_MB_v02.mp3"
+					},
+					{
+						"title": "Holiday ft. Tai Verdes (2021) - Soundtrack",
+						"file": "20211129_Coke_TaiVerdes_Soundtrack_MB_v01.mp3"
+					},
+					{
+						"title": "Holiday ft. Tai Verdes (2021) - Togetherness",
+						"file": "20211129_Coke_TaiVerdes_Togetherness_MB_v01.mp3"
+					},
+					{
+						"title": "Holiday ft. Tai Verdes (2021) - Traditions",
+						"file": "20211129_Coke_TaiVerdes_Traditions_MB_v01.mp3"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Toyota x Dissect",
+				"notes": "Ran on episodes of the podcast Dissect from February 2022.",
+				"file": "20220126_Dissect_Toyota_CCMid_MB_v02b.mp3"
+			},
+
+
+
+			{
+				"title": "Volvo",
+				"notes": "Ran on the music side from September 2021.",
+				"fileArray": [
+					{
+						"file": "Volvo/20210903_Volvo_XC40_Take2_Music_MB_v01d.mp3",
+						"title": "Music"
+					},
+					{
+						"file": "Volvo/20210903_Volvo_XC40_Take2_Podcast_MB_v01.mp3",
+						"title": "Podcast"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Cinnamon Toast Crunch ft. Cuco",
+				"notes": "I recorded the interview with artist Cuco remotely over Squadcast. The final audio was used both as an audio-only spot and in an animated video. Ran on the music side from January 2021. ",
+				"file": "20201216_TakeItTo200_CTC_AudioOnly_MB_v03.mp3"
+			},
+
+
+
+			{
+				"title": "Dairy Farmers of Canada",
+				"notes": "Ran across all Canadian podcasts from December 2020.",
+				"file": "20201125_RONCanada_DFC_Pre_MB_v03.mp3"
+			},
+
+
+
+			{
+				"title": "Dell XPS",
+				"notes": "Ran on the music side from April 2021.",
+				"fileArray": [
+					{
+						"file": "Dell/20210422_Dell_XPS_ExpressYourself_ALT_MB_v01b.mp3",
+						"title": "Express Yourself"
+					},
+					{
+						"file": "Dell/20210426_Dell_XPS_DeepFocus_MB_v02.mp3",
+						"title": "Deep Focus"
+					},
+					{
+						"file": "Dell/20210426_Dell_XPS_LivingBoldly_MB_v03.mp3",
+						"title": "Living Body"
+					},
+					{
+						"file": "Dell/20210426_Dell_XPS_UppingYourGame_MB_v02.mp3",
+						"title": "Upping Your Game"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "TikTok x Dissect sponsored segments",
+				"notes": "A six-part series of sponsored segments on the podcast Dissect, centered around the viral power of Childish Gambino’s “This Is America.” Ran on episodes of Dissect from January 2021.",
+				"fileArray": [
+					{
+						"file": "TikTok/Dissect_TikTok_MidSEG1_MB_v01.mp3",
+						"title": "Segment 1"
+					},
+					{
+						"file": "TikTok/Dissect_TikTok_MidSEG2_MB_v01.mp3",
+						"title": "Segment 2"
+					},
+					{
+						"file": "TikTok/Dissect_TikTok_MidSEG3_MB_v03.mp3",
+						"title": "Segment 3"
+					},
+					{
+						"file": "TikTok/Dissect_TikTok_MidSEG4_MB_v01.mp3",
+						"title": "Segment 4"
+					},
+					{
+						"file": "TikTok/Dissect_TikTok_MidSEG5_MB_v03.mp3",
+						"title": "Segment 5"
+					},
+					{
+						"file": "TikTok/Dissect_TikTok_MidSEG6_MB_v01.mp3",
+						"title": "Segment 6"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "USPS",
+				"notes": "Ran across music and the podcast <i>Heavyweight</i> from November 2022.",
+				"fileArray": [
+					{
+						"file": "USPS/20221027_HW_USPS_Mid_A_MB_v01.mp3",
+						"title": "Spot 1"
+					},
+					{
+						"file": "USPS/20221027_HW_USPS_Mid_B_MB_v01.mp3",
+						"title": "Spot 2"
+					},
+					{
+						"file": "USPS/20221027_HW_USPS_Mid_C_MB_v01.mp3",
+						"title": "Spot 3"
+					},
+					{
+						"file": "USPS/20221027_Music_USPS_60s_MB_v01.mp3",
+						"title": "Spot 4"
+					}
+				]
+			},
+			
+
+
+			{
+				"title": "Tide x Michelle Obama ",
+				"notes": "Ran on episodes of the Michelle Obama Podcast from August 2020.",
+				"file": "20200731_MOPodcast_TideR1_Mid_MB_v04.mp3"
+			},
+
+
+
+			{
+				"title": "Comcast x Renegades",
+				"notes": "Ran on episodes of Barack Obama’s podcast <i>Renegades</i> from March 2021.",
+				"file": "20210217_Renegade_Comcast_Mid_MB_v01.mp3"
+			},
+
+
+
+			{
+				"title": "Dollar Shave Club x Renegades",
+				"notes": "I recorded the CEO of Dollar Shave Club remotely over Squadcast. Ran on episodes of Barack Obama’s podcast <i>Renegades</i> from March 2021.",
+				"file": "20210217_Renegade_DSC_Mid_MB_v01.mp3"
+			},
+
+
+
+			{
+				"title": "Samsung ft. Blu DeTiger",
+				"notes": "Part of a larger campaign that included video of featured artists interacting with the product. Ran on the music side from October 2021.",
+				"fileArray": [
+					{
+						"file": "Samsung/20211006_Samsung_Batch3_BluDT_Community_MB_v01.mp3",
+						"title" : "Community"
+					},
+					{
+						"file": "Samsung/20211006_Samsung_Batch3_BluDT_Multitasking_MB_v01b.mp3",
+						"title" : "Multitasking"
+					},
+					{
+						"file": "Samsung/20211006_Samsung_Batch3_BluDT_Tutorials_MB_v01.mp3",
+						"title" : "Tutorials"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Muscle Milk ft. Julie Ertz",
+				"notes": "Ran on the music side from April 2021.",
+				"file": "20210325_MuscleMilk_Julie_MB_v02.mp3"
+			},
+
+
+
+			{
+				"title": "Campbels ft. Monica",
+				"notes": "I recorded the interview with Monica remotely over Squadcast. Ran on the music side from November 2020.",
+				"fileArray": [
+					{
+						"file": "Campbells/20201110_CampbellsWellYes_01Confident_MB_v05.mp3",
+						"title": "Confident"
+					},
+					{
+						"file": "Campbells/20201110_CampbellsWellYes_02Active_MB_v01.mp3",
+						"title": "Active"
+					},
+					{
+						"file": "Campbells/20201116_CampbellsWellYes_03Positive_MB_v05.mp3",
+						"title": "Positive"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Dove ft. Danae Mercer",
+				"notes": "Ad series featuring wellness influencer Danae Mercer. Ran on the music side from March 2021.",
+				"file": "20210305_Dove_DailyPause_3Chill_MB_v02.mp3"
+			},
+
+
+			{
+				"title": "Stacy’s x Archetypes",
+				"notes": "Ran on episodes of Meghan Markle’s podcast <i>Archetypes</i> from October 2022.",
+				"file": "20221019_Archetypes_Stacys_Pre_MB_v02.mp3"
+			}
+
+		]
+
+	},
+
+
+
+
+	{
+		"name": "Spotify Sales Tools / Special Projects",
+		"mediaFolder": "spotify-tools/",
+		"items": [
+			
+			{
+				"title": "Ad Space",
+				"notes": "Ad Space was a project I worked on at Spotify that unfortunately never saw the light of day (due to forces beyond my control). It was meant to be an interactive website where prospective advertising clients could learn about what makes a great ad. I created an original piece of music to play under the main menu, as well as a sound effects mood board to help our production partner understand what we wanted.",
+				"fileArray": [
+					{
+						"title": "Ad Space: Original music",
+						"file": "Adspace/Ad Space - music.mp3"
+					},
+					{
+						"title": "Ad Space: Moodboard",
+						"file": "Adspace/Ad Space - moodboard.mp3"
+					}
+				]
+			},
+
+			{
+				"title":"Audio Personas",
+				"notes": "The Audio Personas project was a sales tool I worked on with the Spotify ad sales team. It's a set of 12 different \"personas\" used to showcase for prospective clients the wide capabilities of custom audio advertising. I post-produced and sound designed all 12 spots, and have included my favorites here. ",
+				"fileArray": [
+					{
+						"title": "Personas: Explorer",
+						"file": "Personas/Personas_03Explorer.mp3"
+					},
+					{
+						"title": "Personas: Playful",
+						"file": "Personas/Personas_06Playful.mp3"
+					},
+					{
+						"title": "Personas: Visionary",
+						"file": "Personas/Personas_08Visionary.mp3"
+					},
+					{
+						"title": "Personas: Disruptor",
+						"file": "Personas/Personas_09Disruptor.mp3"
+					}
+				]
+			},
+
+
+
+			{
+				"title":"Hearing vs Listening",
+				"notes": "This was another project in partnership with Spotify’s ad sales team. It was designed to emphasize to prospective clients the importance of immersive sound design in audio advertising. I post-produced two versions—one with a female and one with a male narrator—and recorded some of the foley myself.",
+				"fileArray": [
+					{
+						"title": "Hearing vs Listening: Female",
+						"file": "Hearing/20210623_HearingVsListening_Female_MB_v03.mp3"
+					},
+					{
+						"title": "Hearing vs Listening: Male",
+						"file": "Hearing/20210623_HearingVsListening_Male_MB_v03.mp3"
+					}
+				]
+			},
+
+
+			{
+				"title": "SXSW Panel Mock Ad (Sunshower Grove)",
+				"notes": "My production team’s manager was speaking on a panel at SXSW 2023, and we created this mock audio ad to be played at the event. I post-produced.",
+				"file": "20230310_SXSW_SunshowerGrove_Mock_MB_v04.mp3"
+			},
+
+
+			{
+				"title": "Frito Lay Workshop (Immersive Audio)",
+				"notes": "This mock ad was for a client \"workshop\" with Frito Lay. Client workshops were a chance for Spotify’s ad creative development team to educate clients on the capabilities of audio advertising with Spotify. I post-produced and recorded some of the foley myself.",
+				"file": "20220418_FritoLay_ImmersiveAudio_MB_v03.mp3"
+			},
+
+			{
+				"title":"Hearing vs Listening",
+				"notes": "Outside Voice is an annotated Spotify playlist series that celebrates and amplifies BIPOC voices within the global creative community. I engineered this set of annotations for Joan Baker, award-winning voiceover artist and cofounder of the Society of Voice Arts and Sciences.",
+				"fileArray": [
+					{
+						"title": "Announcement 1",
+						"file": "Outside/20220603_OV_JoanBaker_Anno1_MB_v01.mp3"
+					},
+					{
+						"title": "Intro",
+						"file": "Outside/20220603_OV_JoanBaker_Intro_MB_v01.mp3"
+					}
+				]
+			}
+
+		]
+	},
+
+
+
+	{
+		"name": "Audible",
+		"mediaFolder": "audible/",
+		"items": [
+
+			{
+				"title": "More Bedtime Stories For Cynics",
+				"externalLink": "https://www.audible.com/pd/More-Bedtime-Stories-for-Cynics-Audiobook/B07QTC89BM?action_code=ASSGB149080119000H&share_location=pdp",
+				"externalText":"Audible: Streaming",
+				"notes": "<i>More Bedtime Stories for Cynics</i>, released in May 2019, is the second season of Audible's <i>Bedtime Stories for Cynics</i>. Nick Offerman hosts the series, which includes darker, comedic spins on classic children's stories, read by high profile guests Patrick Stewart, Alia Shawkat, Jane Lynch, Aparna Nancherla, Harry Goaz, Mike Birbiglia, Ellen Page, Rachel Dratch, Gary Anthony Williams, Nicole Byer and Matt Walsh. I did the post-production—editing, sound design, music sourcing, mixing and mastering—for the three stories you see here.",
+				"fileArray" : [
+					{
+						"title": "Alien Integration ft. Jane Lynch",
+						"file": "More Bedtime Stories for Cynics - Alien Integration ft. Jane Lynch.wav"
+					},
+					{
+						"title": "The Giving Child ft. Ellen Page",
+						"file": "More Bedtime Stories for Cynics - The Giving Child ft. Ellen Page.wav"
+					},
+					{
+						"title": "The Little Drifter That Could ft. Wendell Pierce",
+						"file": "More Bedtime Stories for Cynics - The Little Drifter That Could ft. Wendell Pierce.wav"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "You Do You",
+				"externalLink": "https://www.audible.com/pd/You-Do-You-Audiobook/B07RL4BH8W",
+				"externalText":"Audible: Streaming",
+				"notes": "<i>You Do You</i> was Audible's 2019 pride month storytelling special, which was offered to members as part of the Original Member Benefit. I edited the script for cohosts Tan France and Nikki Levy, assembled, sound designed, sourced music, mixed and mastered the 2-hour piece. I've included a short excerpt.",
+				"fileArray": [
+					{
+						"title": "You Do You: Reel Cut",
+						"file": "You Do You - reel cut.wav"
+					},
+					{
+						"title": "You Do You: Full Show",
+						"file" : "You Do You - full.wav"
+					}
+				]
+			},
+
+
+
+			{
+				"title": "Have a Nice Day",
+				"externalLink": "https://www.audible.com/pd/Have-a-Nice-Day-Audiobook/B07GXSPKSR",
+				"externalText":"Audible: Streaming",
+				"notes": "Have a Nice Day is a play written by Billy Crystal, starring Crystal, Kevin Kline, Annette Bening and other notable actors. Audible held a live table read of the play at their Minetta Lane theater in New York City, which was recorded then passed to our team to mix and add sound design. I split this project with my talented colleague Jake Young—he mixed and sound-designed the first half and I the second (my half starts at 52:03). The following is a reel cut.",
+				"file": "Have a Nice Day - reel cut.wav"
+			},
+
+
+			{
+				"title": "Laurie Berkner's Song and Story Kitchen - Bonus Music Chapter",
+				"externalLink": "https://www.audible.com/pd/Laurie-Berkners-Song-and-Story-Kitchen-Audiobook/B07H4RJMML",
+				"externalText": "Aubible: Streaming",
+				"notes": "Laurie Berkner’s Song and Story Kitchen is a whimsical children’s series on Audible’s slate of original shows. I mixed and mastered this bonus chapter, which brings together all the songs from the series.",
+				"file": "Laurie Berkner's Song and Story Kitchen - Bonus Music Chapter.wav"
+			}
+
+		]
+	},
+
+
+
+
+	{
+		"name": "Podcasts",
+		"mediaFolder":"podcasts/",
+		"items": [
+			{
+				"title": "Better For It (Branded pod for ADP)",
+				"notes": "I post-produced this interview podcast for ADP with Gimlet Media. I did the mixing, music sourcing/editing and mastering.",
+				"externalLink": "https://open.spotify.com/show/5FCFqau9QJtJNmDljX4mhe?si=dbI5st3XQa6LY0fobqsIew&nd=1",
+				"externalText": "Spotify: Streaming",
+				"embedHTML": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/show/5FCFqau9QJtJNmDljX4mhe?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+			},
+
+
+
+			{
+				"title": "Up At Night (Branded pop for WeWork)",
+				"notes": "I post-produced this interview podcast for WeWork with Gimlet Media. I did the mixing, music sourcing/editing and mastering.",
+				"externalLink": "https://podcasts.apple.com/us/podcast/up-at-night/id1483332139",
+				"externalText": "Apple Podcasts: Streaming",
+				"embedHTML": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *; clipboard-write\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;border-radius:10px;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.podcasts.apple.com/us/podcast/up-at-night/id1483332139\"></iframe>"
+			},
+
+
+			{
+				"title": "The Noise Pop Podcast",
+				"notes": "The Noise Pop Podcast was a monthly series showcasing new independent music and a diverse slate of guest artists, hosted by music journalist Adrian Spinelli. It was produced by Noise Pop, a prominent San Francisco music and arts promoter. As the producer and engineer for the show from July 2019 to April 2020, I was responsible for recording interviews and host narration and editing, mixing and mastering episodes.",
+				"externalLink": "https://noisepop.libsyn.com/",
+				"externalText": "LibSyn: Streaming",
+				"embedHTML": ""
+			},
+
+
+			{
+				"title": "Win the Wedding (pilot, unpublished)",
+				"notes":"Story & script by Caroline Casey, Produced by Kerrianne Thomas, Post-produced by me.",
+				"file": "Win the Wedding.mp3"
+			}
+		]
+
+	},
+
+
+
+	{
+		"name": "Music",
+		"notes": "See my <a hreff=\"https://mollybolten.bandcamp.com/\">Bandcamp page</a> for everything.",
+		"items" : [
+
+
+			{
+				"title": "Home Alone EP",
+				"notes": "<a href=\"https://mollybolten.bandcamp.com/album/home-alone-ep\">Bandcamp</a> • <a href=\"https://open.spotify.com/album/4hNCW0KSJByFSGIaFVOgnV?si=IQJZCwocTQmCcRJqzVjmcw\">Spotify</a>",
+				"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3296142228/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/home-alone-ep\">Home Alone EP by Molly Bolten</a></iframe>"
+			},
+
+
+
+			{
+				"title": "All Seats Provide Equal Viewing of the Universe",
+				"notes": "<a href=\"https://mollybolten.bandcamp.com/album/all-seats-provide-equal-viewing-of-the-universe\">Bandcamp</a> • <a href=\"https://open.spotify.com/album/3m3G3aW38P5o4p4PCM4e8a?si=JQyuRRurQaGwfhcAbZPedg\">Spotify</a>",
+				"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=480842518/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/all-seats-provide-equal-viewing-of-the-universe\">All Seats Provide Equal Viewing of the Universe by Molly Bolten &amp; The Night Kitchen Experiment</a></iframe>"
+			},
+
+
+			{
+				"title": "Compositions",
+				"notes": "<a href=\"https://mollybolten.bandcamp.com/album/compositions\">Bandcamp</a>",
+				"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2949943006/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/compositions\">Compositions by Molly Bolten</a></iframe>"
+			},
+
+
+			{
+				"title": "Having a Coke With You",
+				"notes": "<a href=\"https://youtu.be/k9T3rSj2bYU\">YouTube</a> • <a href=\"https://soundcloud.com/mollybolten/sets/having-a-coke-with-you\">SoundCloud</a>",
+				"embedHTML": "<div class=item-video><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k9T3rSj2bYU?si=eCRpTgPzdrvffkOR\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div>"
+			},
+
+
+			{
+				"title": "Time Lapse Study of Growing Trees",
+				"embedHTML": "<div class=item-video><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/YlbqQ50E4gU?si=QCMX2TqrU2sBQymQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div>"
+			},
+
+
+			{
+				"title": "Patsy",
+				"embedHTML": "<div class=item-video><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2YABVudyZQc?si=G_8Pgox9zYJKuam8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div>"
+			}
+
+		]
+	}
+
+]
