@@ -53,7 +53,7 @@
 			{
 				"title": "Liquid IV",
 				"notes": "A series of three animated video ads, for which I engineered the voiceover and music and created an original music track. Ran on the music side from June 2023.",
-				"file":"Liquid/20230509_LiquidIV_Music_HipHop_v02.mp3"
+				"file":"Liquid_IV/20230509_LiquidIV_Music_HipHop_v02.mp3"
 			},
 
 
@@ -81,28 +81,28 @@
 						"file": "Coke/20201201_Coke_Holiday_MB_v02.mp3"
 					},
 										{
-					"title": "Holiday (2021)",
+						"title": "Holiday (2021)",
 						"file": "Coke/20211022_Coke_Holiday_MB_v01c.mp3"
 					},
 					{
 						"title": "Fooding - Surprise Your Crew (2021)",
-						"file": "20210225_Coke_Fooding_SurpriseYourCrew_MB_v02.mp3"
+						"file": "Coke/20210225_Coke_Fooding_SurpriseYourCrew_MB_v02.mp3"
 					},
 					{
 						"title": "Fooding - Home Game Advantage (2021)",
-						"file": "20210225_Coke_Fooding_HomeGameAdv_MB_v02.mp3"
+						"file": "Coke/20210225_Coke_Fooding_HomeGameAdv_MB_v02.mp3"
 					},
 					{
 						"title": "Holiday ft. Tai Verdes (2021) - Soundtrack",
-						"file": "20211129_Coke_TaiVerdes_Soundtrack_MB_v01.mp3"
+						"file": "Coke/20211129_Coke_TaiVerdes_Soundtrack_MB_v01.mp3"
 					},
 					{
 						"title": "Holiday ft. Tai Verdes (2021) - Togetherness",
-						"file": "20211129_Coke_TaiVerdes_Togetherness_MB_v01.mp3"
+						"file": "Coke/20211129_Coke_TaiVerdes_Togetherness_MB_v01.mp3"
 					},
 					{
 						"title": "Holiday ft. Tai Verdes (2021) - Traditions",
-						"file": "20211129_Coke_TaiVerdes_Traditions_MB_v01.mp3"
+						"file": "Coke/20211129_Coke_TaiVerdes_Traditions_MB_v01.mp3"
 					}
 				]
 			},
@@ -434,15 +434,15 @@
 				"fileArray" : [
 					{
 						"title": "Alien Integration ft. Jane Lynch",
-						"file": "More Bedtime Stories for Cynics - Alien Integration ft. Jane Lynch.wav"
+						"file": "More Bedtime Stories for Cynics - Alien Integration ft. Jane Lynch.mp3"
 					},
 					{
 						"title": "The Giving Child ft. Ellen Page",
-						"file": "More Bedtime Stories for Cynics - The Giving Child ft. Ellen Page.wav"
+						"file": "More Bedtime Stories for Cynics - The Giving Child ft. Ellen Page.mp3"
 					},
 					{
 						"title": "The Little Drifter That Could ft. Wendell Pierce",
-						"file": "More Bedtime Stories for Cynics - The Little Drifter That Could ft. Wendell Pierce.wav"
+						"file": "More Bedtime Stories for Cynics - The Little Drifter That Could ft. Wendell Pierce.mp3"
 					}
 				]
 			},
@@ -457,11 +457,7 @@
 				"fileArray": [
 					{
 						"title": "You Do You: Reel Cut",
-						"file": "You Do You - reel cut.wav"
-					},
-					{
-						"title": "You Do You: Full Show",
-						"file" : "You Do You - full.wav"
+						"file": "You Do You - reel cut.mp3"
 					}
 				]
 			},
@@ -473,7 +469,7 @@
 				"externalLink": "https://www.audible.com/pd/Have-a-Nice-Day-Audiobook/B07GXSPKSR",
 				"externalText":"Audible: Streaming",
 				"notes": "Have a Nice Day is a play written by Billy Crystal, starring Crystal, Kevin Kline, Annette Bening and other notable actors. Audible held a live table read of the play at their Minetta Lane theater in New York City, which was recorded then passed to our team to mix and add sound design. I split this project with my talented colleague Jake Young—he mixed and sound-designed the first half and I the second (my half starts at 52:03). The following is a reel cut.",
-				"file": "Have a Nice Day - reel cut.wav"
+				"file": "Have a Nice Day - reel cut.mp3"
 			},
 
 
@@ -482,7 +478,7 @@
 				"externalLink": "https://www.audible.com/pd/Laurie-Berkners-Song-and-Story-Kitchen-Audiobook/B07H4RJMML",
 				"externalText": "Aubible: Streaming",
 				"notes": "Laurie Berkner’s Song and Story Kitchen is a whimsical children’s series on Audible’s slate of original shows. I mixed and mastered this bonus chapter, which brings together all the songs from the series.",
-				"file": "Laurie Berkner's Song and Story Kitchen - Bonus Music Chapter.wav"
+				"file": "Laurie Berkner's Song and Story Kitchen - Bonus Music Chapter.mp3"
 			}
 
 		]

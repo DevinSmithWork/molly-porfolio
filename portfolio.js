@@ -156,7 +156,7 @@ function create_work_element_single(item, mediaFolder) {
 	
 
 	if (mediaFolder != undefined) {
-		item['file'] = mediaFolder + "/" + item['file']
+		item['file'] = mediaFolder + item['file']
 	}
 
 	// Button
@@ -214,7 +214,7 @@ function create_work_element_multi(item, mediaFolder) {
 		multi_div.classList.add("audio-player", "multi")
 
 		if (mediaFolder != undefined) {
-			multi_item['file'] = mediaFolder + "/" + multi_item['file']
+			multi_item['file'] = mediaFolder + multi_item['file']
 		}
 
 		// Button
@@ -531,7 +531,8 @@ function change_player_song(song_file, callback) {
 }
 
 function start_player() {
-	audio_player.play();
+	// TK Audio will play automatically once canPlay() event is triggered.
+	// audio_player.play();
 }
 
 
