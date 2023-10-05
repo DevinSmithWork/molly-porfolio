@@ -48,29 +48,52 @@ a:hover {
 
 #randomize-div {
 	position: fixed;
-	bottom: 0.5em;
-	right: 0.5em;
-	height: 3.5em;
-	width: 3.5em;
+
+	position: fixed;
+	bottom: 30px;
+	right: 30px;
+	height: 60px;
+	width: 60px;
 
 	cursor: pointer;
 }
 
+
+#dice {
+
+	font-size: 48px;
+	line-height: 50px;
+	text-align: center;
+
+	position: fixed;
+	bottom: 85px;
+	right: 30px;
+	height: 0px;
+	width: 60px;
+
+	z-index: 10;
+
+	-webkit-user-select: none; /* Safari */
+	-ms-user-select: none; /* IE 10 and IE 11 */
+	user-select: none; /* Standard syntax */
+}
+
+
 #randomize-div > svg {
 	position: fixed;
-	bottom: 0.5em;
-	right: 0.5em;
 
-	height: 3.5em;
-	width: 3.5em;	
+	bottom: 30px;
+	right: 30px;
+	height: 60px;
+	width: 60px;
 
 	color: var(--text-color);
 
-  -webkit-animation:spin 10s linear infinite;
-  -moz-animation:spin 10s linear infinite;
-  animation:spin 10s linear infinite;
+	-webkit-animation:spin 10s linear infinite;
+	-moz-animation:spin 10s linear infinite;
+	animation:spin 10s linear infinite;
 
-  z-index: -1;
+	z-index: -1;
 
 }
 @-moz-keyframes spin { 
@@ -84,21 +107,6 @@ a:hover {
         -webkit-transform: rotate(360deg); 
         transform:rotate(360deg); 
     } 
-}
-
-#dice {
-	font-size: 2.5em;
-	text-align: center;
-
-	position: fixed;
-	bottom: calc(0.5em - 0.12em);
-	right: calc(0.5em - 0.07em);
-
-	z-index: 1;
-
-  -webkit-user-select: none; /* Safari */
-  -ms-user-select: none; /* IE 10 and IE 11 */
-  user-select: none; /* Standard syntax */
 }
 
 
