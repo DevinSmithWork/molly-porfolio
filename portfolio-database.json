@@ -434,15 +434,15 @@
 				"fileArray" : [
 					{
 						"title": "Alien Integration ft. Jane Lynch",
-						"file": "More Bedtime Stories for Cynics - Alien Integration ft. Jane Lynch.mp3"
+						"embedHTML" : "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2167350026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=383738026/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/long-form-audio-reel\">Long-form Audio Reel by Molly Bolten</a></iframe>"
 					},
 					{
 						"title": "The Giving Child ft. Ellen Page",
-						"file": "More Bedtime Stories for Cynics - The Giving Child ft. Ellen Page.mp3"
+						"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2167350026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3370215204/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/long-form-audio-reel\">Long-form Audio Reel by Molly Bolten</a></iframe>"
 					},
 					{
 						"title": "The Little Drifter That Could ft. Wendell Pierce",
-						"file": "More Bedtime Stories for Cynics - The Little Drifter That Could ft. Wendell Pierce.mp3"
+						"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2167350026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2288091736/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/long-form-audio-reel\">Long-form Audio Reel by Molly Bolten</a></iframe>"
 					}
 				]
 			},
@@ -454,12 +454,7 @@
 				"externalLink": "https://www.audible.com/pd/You-Do-You-Audiobook/B07RL4BH8W",
 				"externalText":"Audible: Streaming",
 				"notes": "<i>You Do You</i> was Audible's 2019 pride month storytelling special, which was offered to members as part of the Original Member Benefit. I edited the script for cohosts Tan France and Nikki Levy, assembled, sound designed, sourced music, mixed and mastered the 2-hour piece. I've included a short excerpt.",
-				"fileArray": [
-					{
-						"title": "You Do You: Reel Cut",
-						"file": "You Do You - reel cut.mp3"
-					}
-				]
+				"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2167350026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1094118071/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/long-form-audio-reel\">Long-form Audio Reel by Molly Bolten</a></iframe>"
 			},
 
 
@@ -469,7 +464,7 @@
 				"externalLink": "https://www.audible.com/pd/Have-a-Nice-Day-Audiobook/B07GXSPKSR",
 				"externalText":"Audible: Streaming",
 				"notes": "Have a Nice Day is a play written by Billy Crystal, starring Crystal, Kevin Kline, Annette Bening and other notable actors. Audible held a live table read of the play at their Minetta Lane theater in New York City, which was recorded then passed to our team to mix and add sound design. I split this project with my talented colleague Jake Young—he mixed and sound-designed the first half and I the second (my half starts at 52:03). The following is a reel cut.",
-				"file": "Have a Nice Day - reel cut.mp3"
+				"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2167350026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2788892626/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/long-form-audio-reel\">Long-form Audio Reel by Molly Bolten</a></iframe>"
 			},
 
 
@@ -478,7 +473,7 @@
 				"externalLink": "https://www.audible.com/pd/Laurie-Berkners-Song-and-Story-Kitchen-Audiobook/B07H4RJMML",
 				"externalText": "Aubible: Streaming",
 				"notes": "Laurie Berkner’s Song and Story Kitchen is a whimsical children’s series on Audible’s slate of original shows. I mixed and mastered this bonus chapter, which brings together all the songs from the series.",
-				"file": "Laurie Berkner's Song and Story Kitchen - Bonus Music Chapter.mp3"
+				"embedHTML": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2167350026/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2760251220/transparent=true/\" seamless><a href=\"https://mollybolten.bandcamp.com/album/long-form-audio-reel\">Long-form Audio Reel by Molly Bolten</a></iframe>"
 			}
 
 		]

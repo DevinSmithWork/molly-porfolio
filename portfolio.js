@@ -206,39 +206,54 @@ function create_work_element_multi(item, mediaFolder) {
 	for (var k =0; k < item.fileArray.length; k++) {
 		multi_item = item.fileArray[k]
 
-		// ID for audio player + slider
-		au_id = multi_item["title"]
+		if (multi_item.hasOwnProperty("file")) {
+			// ID for audio player + slider
+			au_id = multi_item["title"]	
 
-		// audio player div
-		let multi_div = ce("div")
-		multi_div.classList.add("audio-player", "multi")
+			// audio player div
+			let multi_div = ce("div")
+			multi_div.classList.add("audio-player", "multi")
 
-		if (mediaFolder != undefined) {
-			multi_item['file'] = mediaFolder + multi_item['file']
+			if (mediaFolder != undefined) {
+				multi_item['file'] = mediaFolder + multi_item['file']
+			}
+
+			// Button
+			let multi_button =get_standard_button("media/" + multi_item['file'], au_id)
+
+			// Second multi div
+			let multi_second_div = ce("div")
+			multi_second_div.classList.add("multi-controls")
+		
+
+			// Title
+			let multi_title = ce("p")
+			multi_title.innerText = multi_item['title']
+
+			// Slider
+			let multi_slider = get_standard_slider(au_id)
+
+			// Multi layout
+			multi_div.appendChild(multi_button)
+			multi_second_div.appendChild(multi_title)
+			multi_second_div.appendChild(multi_slider)
+			multi_div.appendChild(multi_second_div)
+
+			// Append to main work div
+			work_div.appendChild(multi_div)
+
+
+		// Multi embed items
+		} else if (multi_item.hasOwnProperty("embedHTML")) {
+
+			let multi_div = ce("div")
+			multi_div.classList.add("embed-div")
+			multi_div.innerHTML = multi_item["embedHTML"]
+
+			// Append to main work div
+			work_div.appendChild(multi_div)
+
 		}
-
-		// Button
-		let multi_button =get_standard_button("media/" + multi_item['file'], au_id)
-
-		// Second multi div
-		let multi_second_div = ce("div")
-		multi_second_div.classList.add("multi-controls")
-
-		// Title
-		let multi_title = ce("p")
-		multi_title.innerText = multi_item['title']
-
-		// Slider
-		let multi_slider = get_standard_slider(au_id)
-
-		// Multi layout
-		multi_div.appendChild(multi_button)
-		multi_second_div.appendChild(multi_title)
-		multi_second_div.appendChild(multi_slider)
-		multi_div.appendChild(multi_second_div)
-
-		// Append to main work div
-		work_div.appendChild(multi_div)
 
 	}
 
@@ -345,7 +360,7 @@ function randomize_colors() {
 
 	for (let i=0;i<color_vars.length;i++) {
 		color_var = color_vars[i]
-		var random_color = Math.floor(Math.random()*16777215).toString(16);
+		var random_color = Math.floor(Math.random()*16777215).toString(16).padStart(6, 0);
 		r.style.setProperty(color_var, "#" + random_color);
 	}
 
