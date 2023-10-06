@@ -49,29 +49,32 @@ a:hover {
 #randomize-div {
 	position: fixed;
 
-	position: fixed;
 	bottom: 30px;
 	right: 30px;
-	height: 60px;
-	width: 60px;
+	height: 80px;
+	width: 80px;
 
 	cursor: pointer;
 }
 
 
 #dice {
+	color: var(--layout-color);
 
-	font-size: 48px;
-	line-height: 50px;
+	font-size: 60px;
+	line-height: 60px;
 	text-align: center;
 
 	position: fixed;
-	bottom: 85px;
+
+	bottom: 100px;
 	right: 30px;
 	height: 0px;
-	width: 60px;
+	width: 80px;
 
 	z-index: 10;
+
+	cursor: pointer;
 
 	-webkit-user-select: none; /* Safari */
 	-ms-user-select: none; /* IE 10 and IE 11 */
@@ -84,8 +87,8 @@ a:hover {
 
 	bottom: 30px;
 	right: 30px;
-	height: 60px;
-	width: 60px;
+	height: 80px;
+	width: 80px;
 
 	color: var(--text-color);
 
@@ -110,17 +113,32 @@ a:hover {
 }
 
 
-#randomize-div:hover {
-	color: var(--accent-color);
-	
-}
 
+
+/* Rotating text */
 #randomize-div:hover > svg > text> textPath {
-	fill: var(--accent-color);	
+	fill: var(--accent-color);
+}
+
+/* Circle stroke and fill */
+#randomize-div:hover > svg > path {
+	fill: var(--accent-color);
+	stroke: var(--layout-color);
+}
+
+/* Dice icon color */
+#randomize-div:hover > div {
+	color: var(--layout-color);
 }
 
 
+.rotate{
+  animation: rotate 1.5s linear infinite; 
+}
 
+@keyframes rotate{
+  to { transform: rotate(360deg); }
+}
 
 
 
