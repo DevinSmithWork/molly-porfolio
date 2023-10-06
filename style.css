@@ -67,7 +67,7 @@ a:hover {
 
 	position: fixed;
 
-	bottom: 100px;
+	bottom: 96px;
 	right: 30px;
 	height: 0px;
 	width: 80px;
@@ -560,3 +560,20 @@ details[open] {
 	background-color: var(--layout-color);
 	border: 3px solid var(--accent-color);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+	
+
+} 
